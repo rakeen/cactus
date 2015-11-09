@@ -1,5 +1,9 @@
-# Cactus
+#Todo:  
 
-[![Build Status](https://drone.io/github.com/hjr265/cactus/status.png)](https://drone.io/github.com/hjr265/cactus/latest)
+- [ ] Understand the db
+- [x] Understand the markup
+- [ ] Implement multiple contest
+- [ ] Implement virtual judge
+- [ ] Support for python
 
-Cactus is a programming contest hosting application.
+![alt multipleContest](http://i.imgur.com/fLSYakV.png)
